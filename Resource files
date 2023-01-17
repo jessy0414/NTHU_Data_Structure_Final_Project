@@ -1,3 +1,9 @@
 Power point: https://docs.google.com/presentation/d/11kV9CxF38JJoILPfL2H_If7rakqClJYv3Vp_kk6AACY/edit#slide=id.g17457ebcae9_0_33
 QA: https://hackmd.io/@suvincent/rkz72rUXs
 Verification program (for advanced version): https://github.com/suvincent/DS_final_student/releases/tag/v1.0.1
+
+
+*** run the verifier ***
+. type "./bin/verifier case1" in the teriminal
+. You can change "case1" to "case2"  or "case3"
+************************
